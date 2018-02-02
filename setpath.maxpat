@@ -1926,7 +1926,6 @@
 						"tags" : "",
 						"style" : "hans002",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-2",
@@ -2054,9 +2053,6 @@
 						"styles" : [ 							{
 								"name" : "hans002",
 								"default" : 								{
-									"fontsize" : [ 11.0 ],
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -2067,8 +2063,11 @@
 										"autogradient" : 0
 									}
 ,
+									"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"accentcolor" : [ 0.741176, 0.356863, 0.047059, 1.0 ],
+									"fontsize" : [ 11.0 ],
 									"bgcolor" : [ 0.664464, 0.639616, 0.388173, 1.0 ],
-									"accentcolor" : [ 0.741176, 0.356863, 0.047059, 1.0 ]
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -2219,7 +2218,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 742.0, 374.0, 499.0, 37.0 ],
 					"style" : "",
-					"text" : "\"Macintosh HD:/Users/BEAN/Downloads/20161108-buffer-recording/\""
+					"text" : "\"Macintosh HD:/Users/BEAN/cantece/\""
 				}
 
 			}
@@ -2747,9 +2746,6 @@
 		"styles" : [ 			{
 				"name" : "hans002",
 				"default" : 				{
-					"fontsize" : [ 11.0 ],
-					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -2760,8 +2756,11 @@
 						"autogradient" : 0
 					}
 ,
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"accentcolor" : [ 0.741176, 0.356863, 0.047059, 1.0 ],
+					"fontsize" : [ 11.0 ],
 					"bgcolor" : [ 0.664464, 0.639616, 0.388173, 1.0 ],
-					"accentcolor" : [ 0.741176, 0.356863, 0.047059, 1.0 ]
+					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 ,
 				"parentstyle" : "",

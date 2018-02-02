@@ -22,8 +22,7 @@
         },
         {
             "section" : 6,
-            "start" : [ "6" ],
-            "stop": [ "5" ]
+            "start" : [ "6" ]
         },
         {
             "section" : 7,
@@ -36,7 +35,8 @@
         },
         {
             "section" : 9,
-            "start" : [ "9" ]
+            "start" : [ "9" ],
+            "stop" : [ "8" ]
         },
         {
             "section" : 10,

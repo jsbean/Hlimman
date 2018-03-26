@@ -1846,7 +1846,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 52.0, 604.0, 405.0, 65.0 ],
 					"style" : "",
-					"text" : ";\rmax setsearchpath 8 \"Macintosh HD:/Users/BEAN/cantece/\" set-path"
+					"text" : ";\rmax setsearchpath 8 \"Macintosh HD:/Users/BEAN/hlimman/\" set-path"
 				}
 
 			}
@@ -2053,6 +2053,8 @@
 						"styles" : [ 							{
 								"name" : "hans002",
 								"default" : 								{
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
+									"bgcolor" : [ 0.664464, 0.639616, 0.388173, 1.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -2063,11 +2065,9 @@
 										"autogradient" : 0
 									}
 ,
-									"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"accentcolor" : [ 0.741176, 0.356863, 0.047059, 1.0 ],
 									"fontsize" : [ 11.0 ],
-									"bgcolor" : [ 0.664464, 0.639616, 0.388173, 1.0 ],
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
+									"color" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -2131,7 +2131,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 52.0, 425.0, 401.0, 37.0 ],
 					"style" : "",
-					"text" : "\"Macintosh HD:/Users/BEAN/cantece/\""
+					"text" : "\"Macintosh HD:/Users/BEAN/hlimman/\""
 				}
 
 			}
@@ -2176,7 +2176,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 656.0, 431.0, 402.0, 37.0 ],
 					"style" : "",
-					"text" : "\"Macintosh HD:/Users/BEAN/cantece/\""
+					"text" : "\"Macintosh HD:/Users/BEAN/hlimman/\""
 				}
 
 			}
@@ -2218,7 +2218,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 742.0, 374.0, 499.0, 37.0 ],
 					"style" : "",
-					"text" : "\"Macintosh HD:/Users/BEAN/cantece/\""
+					"text" : "\"Macintosh HD:/Users/BEAN/hlimman/\""
 				}
 
 			}
@@ -2280,7 +2280,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 114.0, 70.0, 708.0, 24.0 ],
 					"style" : "",
-					"text" : "\"Macintosh HD:/Users/BEAN/cantece/\""
+					"text" : "\"Macintosh HD:/Users/BEAN/hlimman/\""
 				}
 
 			}
@@ -2746,6 +2746,8 @@
 		"styles" : [ 			{
 				"name" : "hans002",
 				"default" : 				{
+					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"bgcolor" : [ 0.664464, 0.639616, 0.388173, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -2756,11 +2758,9 @@
 						"autogradient" : 0
 					}
 ,
-					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"accentcolor" : [ 0.741176, 0.356863, 0.047059, 1.0 ],
 					"fontsize" : [ 11.0 ],
-					"bgcolor" : [ 0.664464, 0.639616, 0.388173, 1.0 ],
-					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
